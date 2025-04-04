@@ -1,4 +1,4 @@
-import "@excalidraw/excalidraw/dist/excalidraw.min.css";
+import "./styles/excalidraw.min.css";
 
 function App() {
   return (

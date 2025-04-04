@@ -1,0 +1,17 @@
+.excalidraw {
+  font-family: "Virgil", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.excalidraw .App-toolbar-container {
+  background-color: #f3f4f6;
+  padding: 0.5rem;
+  border-bottom: 1px solid #ddd;
+}
+
+.excalidraw .App-menu {
+  background-color: white;
+  border-radius: 0.5rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+/* Buraya gerekirse başka temel Excalidraw stilleri de eklenebilir. */

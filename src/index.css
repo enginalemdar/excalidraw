@@ -1,0 +1,6 @@
+/* Global stil dosyası - gerekli değilse boş kalabilir */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}

@@ -1,12 +1,13 @@
-import "./styles/excalidraw.css";
-import { Excalidraw } from "@excalidraw/excalidraw";
+import React from 'react'
+import { Excalidraw } from '@excalidraw/excalidraw'
+import '@excalidraw/excalidraw/dist/excalidraw.min.css'
 
-function App() {
+const App = () => {
   return (
-    <div style={{ height: "100vh", width: "100vw" }}>
+    <div style={{ height: '100vh' }}>
       <Excalidraw />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App

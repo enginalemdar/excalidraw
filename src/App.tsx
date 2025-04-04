@@ -1,8 +1,9 @@
-import "./styles/excalidraw.min.css";
+import "@excalidraw/excalidraw/dist/excalidraw.min.css";
+import { Excalidraw } from "@excalidraw/excalidraw";
 
 function App() {
   return (
-    <div style={{ height: "100vh", width: "100vw" }}>
+    <div style={{ height: "100vh" }}>
       <Excalidraw />
     </div>
   );
